@@ -1,0 +1,15 @@
+/workspaces/MiAplicacionCSharp/bin/Debug/net7.0/MiAplicacionCSharp
+/workspaces/MiAplicacionCSharp/bin/Debug/net7.0/MiAplicacionCSharp.dll.config
+/workspaces/MiAplicacionCSharp/bin/Debug/net7.0/MiAplicacionCSharp.deps.json
+/workspaces/MiAplicacionCSharp/bin/Debug/net7.0/MiAplicacionCSharp.runtimeconfig.json
+/workspaces/MiAplicacionCSharp/bin/Debug/net7.0/MiAplicacionCSharp.dll
+/workspaces/MiAplicacionCSharp/bin/Debug/net7.0/MiAplicacionCSharp.pdb
+/workspaces/MiAplicacionCSharp/obj/Debug/net7.0/MiAplicacionCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/MiAplicacionCSharp/obj/Debug/net7.0/MiAplicacionCSharp.AssemblyInfoInputs.cache
+/workspaces/MiAplicacionCSharp/obj/Debug/net7.0/MiAplicacionCSharp.AssemblyInfo.cs
+/workspaces/MiAplicacionCSharp/obj/Debug/net7.0/MiAplicacionCSharp.csproj.CoreCompileInputs.cache
+/workspaces/MiAplicacionCSharp/obj/Debug/net7.0/MiAplicacionCSharp.dll
+/workspaces/MiAplicacionCSharp/obj/Debug/net7.0/refint/MiAplicacionCSharp.dll
+/workspaces/MiAplicacionCSharp/obj/Debug/net7.0/MiAplicacionCSharp.pdb
+/workspaces/MiAplicacionCSharp/obj/Debug/net7.0/MiAplicacionCSharp.genruntimeconfig.cache
+/workspaces/MiAplicacionCSharp/obj/Debug/net7.0/ref/MiAplicacionCSharp.dll
